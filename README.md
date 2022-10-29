@@ -6,7 +6,7 @@
 
 I'm a Web Developer. I enjoy Coding and Project
 
-Skills:  REACT / JS / HTML/Tailwind CSS/Bootstrap / CSS
+Skills:  REACT / JS / Tailwind CSS/Bootstrap / CSS / HTML /
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Programming Hero 
