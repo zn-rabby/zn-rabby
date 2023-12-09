@@ -1,4 +1,4 @@
- <img style="width: 100%;"  src="https://i.ibb.co/jMBQLjs/x.jpg" />
+ <img style="width: 100%;"  src="https://i.ibb.co/VpT0C9N/Neon-Futuristic-Gaming-Youtube-Banner.png?fbclid=IwAR0wvHJvHCT-sHVXvKbPCcjcXF4lCjJsZNaHBFet0VBaExrDsW1EfZUe91k" />
 
 ### Current Overview
 
@@ -10,9 +10,7 @@ Welcome to rabby-web profile!
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
-Hi, I am Zulkar Naeem Rabby, a self-taught web developer. I think you had a successful day today. I'm glad to see you here
-
-MERN Stack Developer specializing in crafting dynamic and intuitive web applications. With expertise in React.js for frontend development and Node.js along with Express.js for backend, I thrive on creating seamless user experiences. My proficiency extends to MongoDB for efficient database management, ensuring robust and scalable applications. I excel in designing and implementing RESTful APIs, integrating third-party services, and deploying full-stack solutions.
+Hi, I am Zulkar Naeem Rabby.Front-end developer with a passion for React. Committed to continuous learning and mastering the art of crafting intuitive and beautiful user interfaces.
 
 - 🌱 I’m currently learning Next level web technologies
 - 👯 I’m looking to collaborate on opensource and group projects.
@@ -34,3 +32,5 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 ### Technology Skill
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,bootstrap,html,css,js,next,nodejs,express,mongodb,&perline=)](https://skillicons.dev)
+
+**_Always Wishing your great time_**
