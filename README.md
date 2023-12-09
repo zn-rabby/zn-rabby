@@ -20,6 +20,8 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 ### Connect With Me
 
+**Email**: [rabby.webdeveloper@gmail.com](mailto:rabby.webdeveloper@gmail.com)
+
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rabby-web/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ridoy.babu.3538)
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/zulka7060)
