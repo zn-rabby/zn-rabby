@@ -12,7 +12,8 @@ Welcome to rabby-web profile!
 </p>
 Hi, I am Zulkar Naeem Rabby, a self-taught web developer. I think you had a successful day today. I'm glad to see you here
 
-- 💻 I ~like~ **love** coding
+MERN Stack Developer specializing in crafting dynamic and intuitive web applications. With expertise in React.js for frontend development and Node.js along with Express.js for backend, I thrive on creating seamless user experiences. My proficiency extends to MongoDB for efficient database management, ensuring robust and scalable applications. I excel in designing and implementing RESTful APIs, integrating third-party services, and deploying full-stack solutions.
+
 - 🌱 I’m currently learning Next level web technologies
 - 👯 I’m looking to collaborate on opensource and group projects.
 
