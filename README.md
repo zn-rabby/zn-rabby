@@ -10,7 +10,7 @@ Welcome to rabby-web profile!
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
-Hi, I am Zulkar Naeem Rabby.Front-end developer with a passion for React. Committed to continuous learning and mastering the art of crafting intuitive and beautiful user interfaces.
+Hi, I am Zulkar Naeem Rabby. Front-end developer with a passion for React. Committed to continuous learning and mastering the art of crafting intuitive and beautiful user interfaces.
 
 - 🌱 I’m currently learning Next level web technologies
 - 👯 I’m looking to collaborate on opensource and group projects.
