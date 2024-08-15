@@ -27,9 +27,7 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 ### Current Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby-web&theme=vue-dark&border_radius=4)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby-web&theme=meta-dark)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rabby-web&theme=meta-dark" alt="GitHub Streak" /></a>
 
 ### Technology Skill
 
