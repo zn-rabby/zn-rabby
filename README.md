@@ -37,7 +37,7 @@ I am a passionate Web developer love for clean and efficient code. With a strong
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,mui,tailwindcss,html,css" />
     <br/>
-    <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,prisma,redis" />
+    <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,prisma,mongoose" />
     <br/>
     <img  src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
   </a>
