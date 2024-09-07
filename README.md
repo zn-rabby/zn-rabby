@@ -29,8 +29,20 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby-web&theme=meta-dark)](https://git.io/streak-stats)
 
-### Technology Skill
+## 🖥 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,bootstrap,html,css,js,next,nodejs,express,mongodb,&perline=)](https://skillicons.dev)
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img  src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,mui,tailwindcss,html,css" />
+    <br/>
+    <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,prisma,redis" />
+    <br/>
+    <img  src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  </a>
+</p>
+
+<br/>
 
 **_Always Wishing your great time_**
