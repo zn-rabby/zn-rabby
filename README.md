@@ -1,4 +1,4 @@
- <img style="width: 100%;"  src="https://i.ibb.co/VpT0C9N/Neon-Futuristic-Gaming-Youtube-Banner.png?fbclid=IwAR0wvHJvHCT-sHVXvKbPCcjcXF4lCjJsZNaHBFet0VBaExrDsW1EfZUe91k" />
+ <img style="width: 100%;"  src="https://i.ibb.co.com/VJqmzC6/rts.png" />
 
 ### Current Overview
 
@@ -27,7 +27,7 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 ### Current Status
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby-web&theme=vue-dark&border_radius=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rabby-web&theme=whatsapp-dark2)](https://git.io/streak-stats)
 
 ### Technology Skill
 
