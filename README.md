@@ -1,4 +1,4 @@
- <img style="width: 100%;"  src="https://i.ibb.co/VpT0C9N/Neon-Futuristic-Gaming-Youtube-Banner.png?fbclid=IwAR0wvHJvHCT-sHVXvKbPCcjcXF4lCjJsZNaHBFet0VBaExrDsW1EfZUe91k" />
+ <img style="width: 100%;"  src="https://i.ibb.co.com/VJqmzC6/rts.png" />
 
 ### Current Overview
 
