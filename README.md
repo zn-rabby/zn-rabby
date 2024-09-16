@@ -1,4 +1,4 @@
-![github banner image](https://i.ibb.co.com/sKdT5fv/Blue-and-White-Abstract-Technology-Linked-In-Banner-1.png)
+<img style="width: 100%;"  src="https://i.ibb.co.com/MBySz0L/frontend-developer-banner.png" />
 
 ### Current Overview
 
