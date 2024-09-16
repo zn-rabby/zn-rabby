@@ -1,4 +1,4 @@
- <img style="width: 100%;"  src="[https://i.ibb.co.com/sKdT5fv/Blue-and-White-Abstract-Technology-Linked-In-Banner-1.png](https://i.ibb.co.com/sKdT5fv/Blue-and-White-Abstract-Technology-Linked-In-Banner-1.png)" />
+![github banner image](https://i.ibb.co.com/sKdT5fv/Blue-and-White-Abstract-Technology-Linked-In-Banner-1.png)
 
 ### Current Overview
 
