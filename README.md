@@ -22,12 +22,7 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 ## :mailbox: Contact Us
 
 <br />
-
-**Email**: [rabby.webdeveloper@gmail.com](mailto:rabby.webdeveloper@gmail.com)
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rabby-web/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ridoy.babu.3538)
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/zulka7060)
+## [<p align="center"><img height="40" width="40" src="https://i.ibb.co.com/5hD50Xq/icons8-whatsapp-94.png">](+8801590-040222)&nbsp;&nbsp;&nbsp;[<img width="40"  height="40" src="https://i.ibb.co.com/17jXHzJ/icons8-facebook-messenger-94.png">](https://www.facebook.com/rabby.000.111)&nbsp;&nbsp;&nbsp;[<img width="40"  height="40" src="https://i.ibb.co.com/GT7kkxV/icons8-facebook-94.png">](https://www.facebook.com/rabby.000.111)&nbsp;&nbsp;&nbsp;[<img width="40"  height="40" src="https://i.ibb.co.com/8j88gPN/icons8-gmail-logo-94.png">](mailto:rabby.webdeveloper@gmail.com)&nbsp;&nbsp;&nbsp;[<img width="40" height="40" src="https://i.ibb.co.com/kDwgrxN/icons8-linkedin-94.png"> </p>](https://www.linkedin.com/in/rabby-web/)&nbsp;&nbsp;&nbsp;
 
 ## :chart_with_upwards_trend: Github Status
 <br />
