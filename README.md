@@ -1,4 +1,4 @@
-![github banner image](https://i.ibb.co.com/mtWc613/Blue-and-White-Abstract-Technology-Linked-In-Banner-3.png)
+![github banner image](https://i.ibb.co.com/TMVVHsR/Blue-and-White-Abstract-Technology-Linked-In-Banner-3.png)
 
 ### Current Overview
 
