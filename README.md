@@ -1,4 +1,4 @@
-<img style="width: 100%;"  src="https://i.ibb.co.com/sKdT5fv/Blue-and-White-Abstract-Technology-Linked-In-Banner-1.png" />
+![github banner image](https://i.ibb.co.com/kx4S2d1/Blue-and-White-Abstract-Technology-Linked-In-Banner-2.png)
 
 ### Current Overview
 
@@ -10,7 +10,7 @@ Welcome to rabby-web profile!
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
-Hi, I am Zulkar Naeem Rabby.Front-end developer with a passion for React. Committed to continuous learning and mastering the art of crafting intuitive and beautiful user interfaces.
+Hi, I am Zulkar Naeem Rabby.Full Stack Web Developer in MERN Stack. Committed to continuous learning and mastering the art of crafting intuitive and beautiful user interfaces.
 
 - 🌱 I’m currently learning Next level web technologies
 - 👯 I’m looking to collaborate on opensource and group projects.
@@ -27,10 +27,20 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 ### Current Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rabby-web&theme=whatsapp-dark2)](https://git.io/streak-stats)
+<p align="center" >
+<img width="70%" src="https://streak-stats.demolab.com?user=rabby-web&theme=whatsapp-dark2" />
+</p>
 
 ### Technology Skill
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,bootstrap,html,css,js,next,nodejs,express,mongodb,&perline=)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img  src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,mui,tailwindcss,html,css" />
+    <br/>
+    <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,postgresql,prisma,redis" />
+    <br/>
+    <img  src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  </a>
+</p>
 
 **_Always Wishing your great time_**
