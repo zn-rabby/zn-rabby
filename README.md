@@ -40,13 +40,13 @@ I am a passionate Web developer love for clean and efficient code. With a strong
   
 <p align="center">
   <a href="https://www.linkedin.com/in/rabby-web/" target="_blank">
-  <img width="52%" line_height="50%" src="https://github-readme-stats.vercel.app/api?username=rabby-web&show_icons=true&theme=dark&hide_border=true" />
-    <img width="46%" line_height="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rabby-web&layout=compact&show_icons=true&theme=dark&hide_border=true" />
+  <img width="52%" line_height="50%" src="https://github-readme-stats.vercel.app/api?username=rabby-web&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="46%" line_height="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rabby-web&layout=compact&show_icons=true&theme=algolia&hide_border=true" />
   </a>
 </p>
 
 <p align="center" >
-<img width="70%" src="https://streak-stats.demolab.com?user=rabby-web&theme=dark" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rabby-web&theme=algolia&hide_border=true" />
 </p>
 
 ## :computer: Technologies
