@@ -29,12 +29,24 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 [<p align="center"><img height="45" width="45" src="https://i.ibb.co.com/5hD50Xq/icons8-whatsapp-94.png">](#)&nbsp;&nbsp;&nbsp;[<img width="45"  height="45" src="https://i.ibb.co.com/17jXHzJ/icons8-facebook-messenger-94.png">](#)&nbsp;&nbsp;&nbsp;[<img width="45"  height="45" src="https://i.ibb.co.com/GT7kkxV/icons8-facebook-94.png">](https://www.facebook.com/rabby.000.111)&nbsp;&nbsp;&nbsp;[<img width="45"  height="45" src="https://i.ibb.co.com/8j88gPN/icons8-gmail-logo-94.png">](mailto:rabby.webdeveloper@gmail.com)&nbsp;&nbsp;&nbsp;[<img width="45" height="45" src="https://i.ibb.co.com/kDwgrxN/icons8-linkedin-94.png"> </p>](https://www.linkedin.com/in/rabby-web/)
 
-
 ## :chart_with_upwards_trend: Github Status
+
 <br />
 
+<p align="center" style="width:100%">
+  <a href="https://github.com/rabby-web"style="width:100%;display:block;"> 
+</a>
+</p>
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rabby-web/" target="_blank">
+  <img width="52%" line_height="50%" src="https://github-readme-stats.vercel.app/api?username=rabby-web&show_icons=true&theme=dark&hide_border=true" />
+    <img width="46%" line_height="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rabby-web&layout=compact&show_icons=true&theme=dark&hide_border=true" />
+  </a>
+</p>
+
 <p align="center" >
-<img width="70%" src="https://streak-stats.demolab.com?user=rabby-web&theme=whatsapp-dark2" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rabby-web&theme=dark" />
 </p>
 
 ## :computer: Technologies
@@ -56,4 +68,3 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 **_Always Wishing your great time_**
 
 <br>
-
