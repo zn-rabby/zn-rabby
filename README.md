@@ -1,4 +1,4 @@
-![github banner image](https://i.ibb.co.com/7VKDXzB/Blue-and-White-Abstract-Technology-Linked-In-Banner-4.png)
+![github banner image](https://i.ibb.co.com/Fw4B7Y7/rabby-banner-linkdin.png)
 
 ## :eyes: Overview
 
@@ -43,9 +43,9 @@ I am a passionate Web developer love for clean and efficient code. With a strong
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=js,react,nextjs,redux,tailwindcss,html,css" />
+    <img  src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,redux,tailwindcss,html,css" />
     <br/>
-    <img  src="https://skillicons.dev/icons?i=typescript,nodejs,expressjs,mongodb" />
+    <img  src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,docker,aws,jest" />
     <br/>
     <img  src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
   </a>
