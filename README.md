@@ -2,20 +2,25 @@
 
 ## :eyes: Overview
 
-<h3 align="center">
+<h4 align="center">
 Welcome to rabby-web profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
 </p>
-Hi, I am Zulkar Naeem Rabby.Full Stack Web Developer in MERN Stack. Committed to continuous learning and mastering the art of crafting intuitive and beautiful user interfaces.
 
-- 🌱 I’m currently learning Next level web technologies
-- 👯 I’m looking to collaborate on opensource and group projects.
+**Zulkar Naeem Rabby**  
+**Full Stack Web Developer | MERN Stack**
 
-I am a passionate Web developer love for clean and efficient code. With a strong foundation in various programming frameworks, I am always eager to expand my knowledge and explore new technologies. With a keen eye for detail and a dedication to delivering high-quality Web solutions, I am driven to make a positive impact in the world of technology. Connect with me on GitHub to see my activity.
+I am a passionate web developer committed to continuous learning and the craft of building intuitive, beautiful user interfaces. With a strong foundation in various programming frameworks, I am always eager to expand my knowledge and explore new technologies. My focus is on writing clean, efficient code that delivers high-quality web solutions.
+
+ - 💻 Currently Learning: Advanced web technologies to enhance my skills
+- 🚀 Looking for Collaboration & Opportunities: Open to contributing to open-source projects, team-based initiatives, and actively seeking full-time job opportunities in web development
+
+Driven by a keen eye for detail and a dedication to excellence, I strive to make a positive impact in the tech world. Connect with me on **GitHub** to explore my projects and contributions!
+
 
 <p align="center">
 <a href="https://disastrous-step.surge.sh/">
