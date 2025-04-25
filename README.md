@@ -3,34 +3,47 @@
 ## :eyes: Overview
 
 <h4 align="center">
-Welcome to zn-rabby profile!
+  Welcome to zn-rabby's GitHub profile!  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+years+of+coding+experience;Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=380&lines=Front-End+Web+Developer;MERN+Stack+Developer;1%2B+Years+of+Coding+Experience;Always+Learning+New+Things" />
 </p>
 
-**Zulkar Naeem Rabby**  
-I work on both the frontend and backend. HTML, CSS, and JavaScript form the foundation of my programming journey. On the frontend, I use TypeScript, React, Redux, Next.js, Tailwind CSS, and ShadCN to build modern and performance-optimized user interfaces.
+---
 
-On the backend, I work with Node.js, Express.js, MongoDB, and Mongoose. I follow the Modular Pattern while writing code, which helps keep my code clean, reusable, and easy to maintain. This approach has helped me gain proficiency in creating RESTful APIs and managing databases effectively.
+**Zulkar Naeem Rabby** — _Full-Stack Web Developer_
 
-In the future, I am learning and planning to work more deeply with Docker, AWS, and Unit Testing.
+I’m a passionate developer with hands-on experience in both frontend and backend development. My journey began with HTML, CSS, and JavaScript, which laid a strong foundation in web development.
 
-For me, technology and coding are not just a profession—they are my future. I'm always eager to learn new things, improve my skills, and build solutions that make a real difference in people’s lives.
+On the **frontend**, I work with modern technologies like **TypeScript**, **React**, **Redux**, **Next.js**, **Tailwind CSS**, and **ShadCN/UI** to craft responsive, fast, and visually appealing user interfaces.
+
+On the **backend**, I use **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**. I follow the **Modular Architecture** pattern to ensure my codebase stays clean, scalable, and maintainable. This practice helps me build efficient **RESTful APIs** and manage databases effectively.
+
+Currently, I’m expanding my skill set by learning **Docker**, **AWS**, and **Unit Testing** to further enhance my backend and deployment expertise.
+
+> 💡 _For me, coding is not just a profession—it’s my passion and future. I'm committed to continuous learning, solving real-world problems, and building impactful digital solutions._
 
 <p align="center">
-<a href="https://zn-rabby.vercel.app/">
-<img height="40" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/explore.png"/>
-</a>
+  <a href="https://zn-rabby.vercel.app/" target="_blank">
+    <img height="40" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/explore.png" alt="Explore Portfolio" />
+  </a>
 </p>
 
 ## :mailbox: Contact Us
 
 <br />
 
-[<p align="center"><img height="45" width="45" src="https://i.ibb.co.com/5hD50Xq/icons8-whatsapp-94.png">](#)&nbsp;&nbsp;&nbsp;[<img width="45"  height="45" src="https://i.ibb.co.com/17jXHzJ/icons8-facebook-messenger-94.png">](#)&nbsp;&nbsp;&nbsp;[<img width="45"  height="45" src="https://i.ibb.co.com/GT7kkxV/icons8-facebook-94.png">](https://www.facebook.com/rabby.000.111)&nbsp;&nbsp;&nbsp;[<img width="45"  height="45" src="https://i.ibb.co.com/8j88gPN/icons8-gmail-logo-94.png">](mailto:rabby.webdeveloper@gmail.com)&nbsp;&nbsp;&nbsp;[<img width="45" height="45" src="https://i.ibb.co.com/kDwgrxN/icons8-linkedin-94.png"> </p>](https://www.linkedin.com/in/zn-rabby/)
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zn-rabby/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="45" height="45"/></a>
+  <a href="mailto:zn.rabby@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/8801540643211"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://m.me/znr.rabby"><img src="https://img.icons8.com/color/48/000000/facebook-messenger--v1.png" alt="Messenger" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/znr.rabby"><img src="https://img.icons8.com/color/48/000000/facebook--v1.png" alt="Facebook" width="45" height="45"/></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 ## :chart_with_upwards_trend: Github Status
 
