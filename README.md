@@ -1,4 +1,4 @@
-![github banner image](https://i.ibb.co.com/Fw4B7Y7/rabby-banner-linkdin.png)
+![github banner image](https://res.cloudinary.com/daxjf1buu/image/upload/v1745602322/zn-rabby-banner_mtvwmi.png)
 
 ## :eyes: Overview
 
@@ -12,18 +12,16 @@ Welcome to zn-rabby profile!
 </p>
 
 **Zulkar Naeem Rabby**  
-**Full Stack Web Developer | MERN Stack**
+I work on both the frontend and backend. HTML, CSS, and JavaScript form the foundation of my programming journey. On the frontend, I use TypeScript, React, Redux, Next.js, Tailwind CSS, and ShadCN to build modern and performance-optimized user interfaces.
 
-I am a passionate web developer committed to continuous learning and the craft of building intuitive, beautiful user interfaces. With a strong foundation in various programming frameworks, I am always eager to expand my knowledge and explore new technologies. My focus is on writing clean, efficient code that delivers high-quality web solutions.
+On the backend, I work with Node.js, Express.js, MongoDB, and Mongoose. I follow the Modular Pattern while writing code, which helps keep my code clean, reusable, and easy to maintain. This approach has helped me gain proficiency in creating RESTful APIs and managing databases effectively.
 
- - 💻 Currently Learning: Advanced web technologies to enhance my skills
-- 🚀 Looking for Collaboration & Opportunities: Open to contributing to open-source projects, team-based initiatives, and actively seeking full-time job opportunities in web development
+In the future, I am learning and planning to work more deeply with Docker, AWS, and Unit Testing.
 
-Driven by a keen eye for detail and a dedication to excellence, I strive to make a positive impact in the tech world. Connect with me on **GitHub** to explore my projects and contributions!
-
+For me, technology and coding are not just a profession—they are my future. I'm always eager to learn new things, improve my skills, and build solutions that make a real difference in people’s lives.
 
 <p align="center">
-<a href="https://disastrous-step.surge.sh/">
+<a href="https://zn-rabby.vercel.app/">
 <img height="40" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/explore.png"/>
 </a>
 </p>
